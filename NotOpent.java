@@ -1,3 +1,3 @@
 class NotOpen
-{
+{ 1
 }
